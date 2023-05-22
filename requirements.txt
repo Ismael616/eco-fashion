@@ -1,4 +1,5 @@
 ipython==8.13.2
+deep-translator==1.11.0
 joblib==1.2.0
 jsonschema==4.17.3
 markdown-it-py==2.2.0
